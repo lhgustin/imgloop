@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/static/js/main.e147bfeb.chunk.js",
+    "main.js.map": "/static/js/main.e147bfeb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ffaf2a46.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ffaf2a46.js.map",
+    "static/js/2.ee7a3144.chunk.js": "/static/js/2.ee7a3144.chunk.js",
+    "static/js/2.ee7a3144.chunk.js.map": "/static/js/2.ee7a3144.chunk.js.map",
+    "static/js/3.883c1291.chunk.js": "/static/js/3.883c1291.chunk.js",
+    "static/js/3.883c1291.chunk.js.map": "/static/js/3.883c1291.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.ee7a3144.chunk.js.LICENSE.txt": "/static/js/2.ee7a3144.chunk.js.LICENSE.txt",
+    "static/media/13-100- Iron Giant_shutterstock_49889352113-100-Iron Giant_Final (1).334e645c.png": "/static/media/13-100- Iron Giant_shutterstock_49889352113-100-Iron Giant_Final (1).334e645c.png",
+    "static/media/13-99-Skate_niclas-moser-XO6at6w4vMc-unsplash_Final (1).032526e0.png": "/static/media/13-99-Skate_niclas-moser-XO6at6w4vMc-unsplash_Final (1).032526e0.png",
+    "static/media/32-11-Cadillac_Pexels_grayscale-photography-of-vintage-car-beside-pavement-712615_Neil kelly_final (1).e1e67ec8.png": "/static/media/32-11-Cadillac_Pexels_grayscale-photography-of-vintage-car-beside-pavement-712615_Neil kelly_final (1).e1e67ec8.png",
+    "static/media/Def-arrière.e85ae7aa.png": "/static/media/Def-arrière.e85ae7aa.png",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffaf2a46.js",
+    "static/js/2.ee7a3144.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e147bfeb.chunk.js"
+  ]
+}
